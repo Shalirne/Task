@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Скачивание картинки\bin\Debug\net7.0\Скачивание картинки.exe
+C:\Users\1\source\repos\Скачивание картинки\bin\Debug\net7.0\Скачивание картинки.deps.json
+C:\Users\1\source\repos\Скачивание картинки\bin\Debug\net7.0\Скачивание картинки.runtimeconfig.json
+C:\Users\1\source\repos\Скачивание картинки\bin\Debug\net7.0\Скачивание картинки.dll
+C:\Users\1\source\repos\Скачивание картинки\bin\Debug\net7.0\Скачивание картинки.pdb
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.AssemblyInfo.cs
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.dll
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\refint\Скачивание картинки.dll
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.pdb
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\Скачивание картинки.genruntimeconfig.cache
+C:\Users\1\source\repos\Скачивание картинки\obj\Debug\net7.0\ref\Скачивание картинки.dll
